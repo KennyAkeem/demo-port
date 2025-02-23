@@ -3,12 +3,13 @@
 *{
 
 margin: 0;
-padding: 0;
+padding: 1rem;
 box-sizing: border-box;
 border: none;
 outline: none;
 scroll-behavior: smooth;
 font-family: 'Poppin', sans-serif;
+max-width:100%;
 }
 
 :root{
@@ -27,7 +28,7 @@ body{
 
 background:var(--bgcolor);
 color:var(--text-color);
-overflow:hidden;
+overflow-x: hidden;
 
 }
 
