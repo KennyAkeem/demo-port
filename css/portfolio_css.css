@@ -27,6 +27,7 @@ body{
 
 background:var(--bgcolor);
 color:var(--text-color);
+overflow:hidden;
 
 }
 
